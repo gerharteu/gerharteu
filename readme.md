@@ -1,1 +1,1 @@
-<img src="https://streak-stats.demolab.com?user=gerhartde&theme=tokyonight&hide_border=true" alt="gerhartde's GitHub Stats" />
+<img src="https://streak-stats.demolab.com?user=gerharteu&theme=tokyonight&hide_border=true" alt="gerharteu's GitHub Stats" />
